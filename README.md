@@ -12,7 +12,7 @@ The phishing script is designed to collect user credentials from a manipulated H
 
 ## Configuration
 
-Before using the script, you need to configure certain parameters to fit your specific phishing campaign. Open the script file (`script.php`) and modify the following variables in the configuration section:
+Before using the script, you need to configure certain parameters to fit your specific phishing campaign. Open the script file (`Phishing Post.php`) and modify the following variables in the configuration section:
 
 - `$harvest_filename`: Filename for harvested data (keep it non-guessable).
 - `$post_url`: Target URL used for posting the form.
@@ -30,7 +30,7 @@ Before using the script, you need to configure certain parameters to fit your sp
 ## Usage
 
 1. Configure the script by following the instructions in the "Configuration" section.
-2. Upload the script (`script.php`) to your web server or phishing environment.
+2. Upload the script (`Phishing Post.php`) to your web server or phishing environment.
 3. Create a backdoored HTML form with the action attribute pointing to the script URL.
 4. Deploy the HTML form on a webpage or send it to targets as part of a phishing campaign.
 
