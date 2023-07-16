@@ -44,4 +44,4 @@ For any questions or assistance, please contact the script author or refer to th
 
 ## License
 
-This script is provided under the [MIT License](https://opensource.org/licenses/MIT). Please review the license file for more information.
+This project is licensed under the [MIT License](LICENSE).
